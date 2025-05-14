@@ -2,13 +2,11 @@
 
 # Learning Folder: AI Projects
 
-This folder contains Python projects exploring AI applications inspired by innovative concepts, including an AI text generator, sentiment analyzer, and a culture drone program based on Iain M. Banks' novels.
+This folder will contain Python projects exploring AI applications inspired by innovative concepts; currently, it contains a culture drone program based on Iain M. Banks' novels.
 
 ## Projects
 
-- **AI_text_generator.py**: A script that generates creative text using AI models.
-- **sentiment_analyzer.py**: A tool for analyzing sentiment in text data.
-- **culture_drone.py**: A program simulating a drone inspired by Iain M. Banks' *Culture* series, focusing on AI-driven decision-making.
+- **learning/culturedrone-mavvik**: A program simulating a drone inspired by Iain M. Banks' *Culture* series, focusing on AI-driven decision-making.
 
 ## Setup Instructions
 
@@ -28,4 +26,4 @@ This folder contains Python projects exploring AI applications inspired by innov
    python AI_text_generator.py
    ```
 
-Each project has its own documentation within the script for further details.
+Each project will have its own documentation within the script for further details.
